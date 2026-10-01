@@ -1,0 +1,6 @@
+{
+  "name": "AURELIUS | Men's Essential Goods",
+  "description": "A refined, minimalist men's e-commerce store specializing in handcrafted leather wallets, executive bags, and precision automatic watches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
